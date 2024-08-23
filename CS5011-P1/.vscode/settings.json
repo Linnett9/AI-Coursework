@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "StarterCode4/lib/logicng-2.4.1.jar",
+        "StarterCode4/lib/antlr4-runtime-4.9.3.jar",
+        "StarterCode4/lib/org.sat4j.core.jar"
+    ]
+}
